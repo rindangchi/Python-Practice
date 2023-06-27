@@ -14,7 +14,7 @@ How to help global superstore understand its current sales data to maximize its 
 Understanding and representing the current sales data in Global Superstore
 
 ### 3. Objective
-Create sales dashboard to help the company easier to monitor its sales performance
+Do teh exploratory data analysis to understand and get insight from the current dataset 
 
 ### 4. Initial Insight
 To understand its sales performance, company needs to breakdown its sales based on customer segment, product category and sub category, and region
