@@ -17,4 +17,6 @@ Understanding and representing the current sales data in Global Superstore
 Do teh exploratory data analysis to understand and get insight from the current dataset 
 
 ### 4. Initial Insight
-To understand its sales performance, company needs to breakdown its sales based on customer segment, product category and sub category, and region
+To understand its sales performance, company needs to do exploratory data analysis to find pattern, correlation, and the meaning of their data. 
+
+### 
