@@ -19,4 +19,9 @@ Do teh exploratory data analysis to understand and get insight from the current 
 ### 4. Initial Insight
 To understand its sales performance, company needs to do exploratory data analysis to find pattern, correlation, and the meaning of their data. 
 
-### 
+### 5. Exploratory Data Analysis 
+In this part I will explain the result of the exploratory data analysis that has been done. For full code can be accessed here : 
+ 1. (Github)[https://github.com/rindangchi/Python-Practice/blob/main/EDA%20Superstore/3_Exploratory_Data_Analysis_Sample_Global_Superstore.ipynb]
+ 2. (Google Colabs)[https://colab.research.google.com/drive/1lt6DFEKMWPJwrvfTQQJqOGGXxsvob504?usp=sharing]
+
+### 5.1. 
