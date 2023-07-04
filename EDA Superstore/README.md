@@ -45,9 +45,10 @@ To make it more interesting, I visualize the dataset using barchart to rank the 
 <img width="477" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/095a1334-ddb9-479d-bfaa-e61f27311a14">
 
 
-<img width="477" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/beb2005b-85d5-40ec-ac60-e94e1b0fbb99">
+<img width="500" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/beb2005b-85d5-40ec-ac60-e94e1b0fbb99">
 
 <img width="477" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/e620e01e-15ab-4bda-8423-85663545207a">
+
 
 
 Some insight gotten from the visualization are:
