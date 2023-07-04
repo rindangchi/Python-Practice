@@ -42,7 +42,7 @@ From the categorical variables I can find details of each variable as decribed i
 
 To make it more interesting, I visualize the dataset using barchart to rank the most and the least frequency for each variable or column. 
 
-<img width="380" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/095a1334-ddb9-479d-bfaa-e61f27311a14">
+<img width="477" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/095a1334-ddb9-479d-bfaa-e61f27311a14">
 
 
 <img width="477" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/beb2005b-85d5-40ec-ac60-e94e1b0fbb99">
