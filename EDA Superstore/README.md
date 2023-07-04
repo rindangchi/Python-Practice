@@ -29,5 +29,10 @@ The data set contains 9993 rows and 113 columns. And there is no null values for
 
 <img width="208" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/0e4a6f5e-fbe0-4d8e-ba49-c67d7402a6f9">
 
-In the dataset description, for postal code columns its data type is still int, so that i change the datatype into object to make the dataset valid. 
+In the dataset description, for postal code columns, its data type is still int, so that i change the datatype into object to make the dataset valid. 
+Below are the details of each columns. Since there is no null value in the dataset, I will proceed the dataset for further analysis.
+
+<img width="116" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/946bd90c-b89b-4c46-8abf-b1a966710c96">
+
+
 
