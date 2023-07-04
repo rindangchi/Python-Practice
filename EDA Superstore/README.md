@@ -38,7 +38,7 @@ Below are the details of each columns after I change the data type for postal co
 From the data set, I did analysis separately for categorical and continous variable. In this section I will explain my finding on categorical variables. 
 From the categorical variables I can find details of each variable as decribed in the column below:
 
-<img width="300" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/16bb7120-04fe-4442-a71d-75e3ee3bf6d3">
+<img width="600" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/16bb7120-04fe-4442-a71d-75e3ee3bf6d3">
 
 
 
