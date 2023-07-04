@@ -42,9 +42,22 @@ From the categorical variables I can find details of each variable as decribed i
 
 To make it more interesting, I visualize the dataset using barchart to rank the most and the least frequency for each variable or column. 
 
-*Ship Mode*
+![image](https://github.com/rindangchi/Python-Practice/assets/10241058/7bd6da32-7429-4025-af9d-96a751af576c)
 
-<img width="291" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/9372eaad-3e39-4d85-b0f0-a9006ec6af6e">
+<img width="477" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/beb2005b-85d5-40ec-ac60-e94e1b0fbb99">
+
+<img width="338" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/e620e01e-15ab-4bda-8423-85663545207a">
+
+Some insight gotten from the visualization are:
+1. Standard class is the most chosen shipment mode and same day is the least used mode
+2. Looking at the customer segment, the most segment did the transaction is consumer segment and the segment did the least transaction is home office
+3. Most transaction came from West and the least came from South
+4. Most bought product category is office supplies and the least is technology
+5. Most bought product sub-category is office supplies and the least is copiers
+6. Most customer who did transactions came from California and the least transaction came from Wyoming.
+
+
+
 
 
 
