@@ -30,9 +30,18 @@ The data set contains 9993 rows and 113 columns. And there is no null values for
 <img width="208" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/0e4a6f5e-fbe0-4d8e-ba49-c67d7402a6f9">
 
 In the dataset description, for postal code columns, its data type is still int, so that i change the datatype into object to make the dataset valid. 
-Below are the details of each columns. Since there is no null value in the dataset, I will proceed the dataset for further analysis.
+Below are the details of each columns after I change the data type for postal code column. Since there is no null value in the dataset, I will proceed the dataset for further analysis.
 
-<img width="116" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/946bd90c-b89b-4c46-8abf-b1a966710c96">
+<img width="208" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/946bd90c-b89b-4c46-8abf-b1a966710c96">
+
+### 5.2. Analysis of Categorical Variable 
+From the data set, I did analysis separately for categorical and continous variable. In this section I will explain my finding on categorical variables. 
+From the categorical variables I can find details of each variable as decribed in the column below:
+
+<img width="300" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/16bb7120-04fe-4442-a71d-75e3ee3bf6d3">
+
+
+
 
 
 
