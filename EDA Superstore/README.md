@@ -21,7 +21,13 @@ To understand its sales performance, company needs to do exploratory data analys
 
 ### 5. Exploratory Data Analysis 
 In this part I will explain the result of the exploratory data analysis that has been done. For full code can be accessed here : 
- 1. (Github)[https://github.com/rindangchi/Python-Practice/blob/main/EDA%20Superstore/3_Exploratory_Data_Analysis_Sample_Global_Superstore.ipynb]
- 2. (Google Colabs)[https://colab.research.google.com/drive/1lt6DFEKMWPJwrvfTQQJqOGGXxsvob504?usp=sharing]
+ 1. [Github](https://github.com/rindangchi/Python-Practice/blob/main/EDA%20Superstore/3_Exploratory_Data_Analysis_Sample_Global_Superstore.ipynb)
+ 2. [Google Colabs](https://colab.research.google.com/drive/1lt6DFEKMWPJwrvfTQQJqOGGXxsvob504?usp=sharing])
 
-### 5.1. 
+### 5.1. Dataset Description
+The data set contains 9993 rows and 113 columns. And there is no null values for all variables or columns.
+
+<img width="208" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/0e4a6f5e-fbe0-4d8e-ba49-c67d7402a6f9">
+
+In the dataset description, for postal code columns its data type is still int, so that i change the datatype into object to make the dataset valid. 
+
