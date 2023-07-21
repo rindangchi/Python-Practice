@@ -1,5 +1,7 @@
-# EDA Global Superstore
 
+<img width="1000" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/de9b0e85-7f96-4a6c-9943-c18a8bd010e2">
+
+# EDA Global Superstore
 ## Background
 Global superstore is a unreal store that doing sales business for various customers both the company and personal customer. They also sells various stuffs range from office supplies, furniture, and technology. They have a lot of sales data and they want to use the sales data to understand their current sales better to improve and maximize their sales performance. As a data analyst in the global superstore company I am assigned to analyze and get insight about their current sales data by using exploratory data analysis.
 In EDA I will try to understand the data, such as the variables, its data types, null value, and  performing descriptive statistics. EDA is important because it helps us to decide what the next things we need to do before performing data analysis or creating a new model. Using sample superstore dataset I will do the EDA to know which region is having the highest profit, highest sales, which product or category is more proftitable and many more.
