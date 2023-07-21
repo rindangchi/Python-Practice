@@ -108,7 +108,7 @@ Using barchart dataset is visualized to rank the most and the least frequency fo
 6. Most customer who did transactions came from California and the least transaction came from Wyoming.
 
 Further analysis then conducted to get deeper insight from the dataset.
-- For the State, West is state with the highest frequency of buying. From this point we can analyze whether cities with top buying frequency is located in the West region or not and is there any West city having small frequency of buying. By analyzing this, we know that West region is having a lot of potential buyer and we can develop strategy on how to improve buying frequency in the West region cities.
+- For the Region, West is region with the highest frequency of buying. From this point we can analyze whether cities with top buying frequency is located in the West region or not and is there any West city having small frequency of buying. By analyzing this, we know that West region is having a lot of potential buyer and we can develop strategy on how to improve buying frequency in the West region cities.
 
 
   
