@@ -8,7 +8,7 @@
   
 - The analysis firstly conducted by understanding the data, including its variables, data types, the uniques values of each variable, and missing values. After that analysis is continued by explaining the statistical description of the data, such as mean, median, mode, and the distribution of the data.
   
-- Analysis then divided into two sections based on the variable type, analysis is conducted separately between the continous and categprical variable. It is followed by data visualization to make it easier to understand. Several type of graphs such as bar chart, correlation map, boxplot, and map are used to visualize the data. Under each visualization, explained the findings and some insights that can be used for the future project or analysis.
+- Analysis then divided into two sections based on the variable type, analysis is conducted separately between the numerical and categorical variable. It is followed by data visualization to make it easier to understand. Several type of graphs such as bar chart, correlation map, boxplot, and map are used to visualize the data. Under each visualization, explained the findings and some insights that can be used for the future project or analysis.
 
 - From ths EDA process several insights are found and further can be used to make a better business decision. This analysis provides useful information for business user to increase profit, gain more customers, designing purchasing strategy, opening new branch, and many more. 
   
@@ -29,7 +29,7 @@ There are several problem statements that can be listed, stated as below:
 - Which state has the most and least purchased product ?
 - Which product has the most and least profit value ?
 - Which category has the most and least profit value ?
-- Is there any correlation between variables, such as location, product, or product category with profit value and number of purchased product?
+- Is there any correlation between variables, such as product, product category with profit value and number of purchased product?
 - How are the distribution of 
 
 ### 2. Goal
@@ -57,10 +57,10 @@ Below are the details of each column after I change the data type for postal cod
 
 <br>
 
-- The data set contains 9993 rows and 113 columns. And there is no null values for all variables or columns.
-- The data set contains 13 columns, which includes both categorical and continous variables.
-- The categorical variables are indicated with Object data type and the continous variable is indicated with the int64 data type.
-- There is no null values in the data set.
+- The data set contains 9993 rows and 13 columns. And there is no null values for all variables or columns.
+- The data set contains 13 columns, which includes both categorical and numerical variables.
+- The categorical variables are indicated with Object data type and the numerical variable is indicated with the int64 data type.
+
 
 #### Understanding the given variables
 Variables stated in the datasest is divided into two categories, there are continous and categorical variables. 
@@ -76,7 +76,7 @@ Variables stated in the datasest is divided into two categories, there are conti
 **Category**: Product category purchased by customer        
 **Sub-Category**: Product sub-category purchased by customer  
 
-#### Continous VariableS:
+#### Numerical VariableS:
 **Sales**: Sales value of each transaction, measured in USD         
 **Quantity**: Quantity of product purchased per transaction        
 **Discount**: Discount given to customers for each transaction     
@@ -84,7 +84,7 @@ Variables stated in the datasest is divided into two categories, there are conti
 
 
 ### 5.2. Analysis of Categorical Variable 
-From the dataset, I did analysis separately for categorical and continous variables. In this section I will explain my finding on categorical variables.  
+From the dataset, I did analysis separately for categorical and numerical variables. In this section I will explain my finding on categorical variables.  
 Using the describe function, it can be seen some information as stated in the picture below:
 
 <img width="600" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/16bb7120-04fe-4442-a71d-75e3ee3bf6d3">
@@ -111,7 +111,6 @@ Further analysis then conducted to get deeper insight from the dataset.
 - For the Region, West is region with the highest frequency of buying. From this point we can analyze whether cities with top buying frequency is located in the West region or not and is there any West city having small frequency of buying. By analyzing this, we know that West region is having a lot of potential buyer and we can develop strategy on how to improve buying frequency in the West region cities.
 
 
-  
 - For the state and city with the lowest purchasing frequency, further analysis can be done to find out what products and categories are purchased most in that cities. The marketing team can push more promotion regarding the products to the buyer resided in those cities.  
 
 
