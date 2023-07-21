@@ -10,7 +10,7 @@
   
 - Analysis then divided into two sections based on the variable type, analysis is conducted separately between the continous and categprical variable. It is followed by data visualization to make it easier to understand. Several type of graphs such as bar chart, correlation map, boxplot, and map are used to visualize the data. Under each visualization, explained the findings and some insights that can be used for the future project or analysis.
 
-- 
+- From ths EDA process several insights are found and further can be used for the next analytical projects, for example market basket analysis, customer segmentation, prediction and many more.
 
 
 ## Background
