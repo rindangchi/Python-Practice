@@ -1,4 +1,4 @@
-<img width="158" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/b7f17dff-91f4-40b6-8ca5-b0a459308428">
+
 <img width="1000" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/de9b0e85-7f96-4a6c-9943-c18a8bd010e2">
 
 # EDA Global Superstore
@@ -109,6 +109,9 @@ Using barchart dataset is visualized to rank the most and the least frequency fo
 
 Further analysis then conducted to get deeper insight from the dataset.
 - For the State, West is state with the highest frequency of buying. From this point we can analyze whether cities with top buying frequency is located in the West region or not and is there any West city having small frequency of buying. By analyzing this, we know that West region is having a lot of potential buyer and we can develop strategy on how to improve buying frequency in the West region cities.
+
+
+  
 - For the state and city with the lowest purchasing frequency, further analysis can be done to find out what products and categories are purchased most in that cities. The marketing team can push more promotion regarding the products to the buyer resided in those cities.  
 
 
