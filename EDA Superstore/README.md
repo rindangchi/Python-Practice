@@ -55,6 +55,7 @@ Below are the details of each column after I change the data type for postal cod
 
 <img width="208" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/946bd90c-b89b-4c46-8abf-b1a966710c96">
 
+<br>
 
 - The data set contains 9993 rows and 113 columns. And there is no null values for all variables or columns.
 - The data set contains 13 columns, which includes both categorical and continous variables.
@@ -83,25 +84,22 @@ Variables stated in the datasest is divided into two categories, there are conti
 
 
 ### 5.2. Analysis of Categorical Variable 
-From the dataset, I did analysis separately for categorical and continous variable. In this section I will explain my finding on categorical variables. 
-From the categorical variables I can find details of each variable as decribed in the column below:
+From the dataset, I did analysis separately for categorical and continous variables. In this section I will explain my finding on categorical variables.  
+Using the describe function, it can be seen some information as stated in the picture below:
 
 <img width="600" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/16bb7120-04fe-4442-a71d-75e3ee3bf6d3">
 
-
-
-To make it more interesting, I visualize the dataset using barchart to rank the most and the least frequency for each variable or column. 
-
+<br></br>
+Using barchart dataset is visualized to rank the most and the least frequency for each variable.
+<br></br>
 <img width="477" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/095a1334-ddb9-479d-bfaa-e61f27311a14">
-
-
+<br></br>
 <img width="500" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/beb2005b-85d5-40ec-ac60-e94e1b0fbb99">
-
+<br></br>
 <img width="477" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/e620e01e-15ab-4bda-8423-85663545207a">
 
-
-
-Some insight gotten from the visualization are:
+<br></br>
+**Findings and Observation**
 1. Standard class is the most chosen shipment mode and same day is the least used mode
 2. Looking at the customer segment, the most segment did the transaction is consumer segment and the segment did the least transaction is home office
 3. Most transaction came from West and the least came from South
@@ -109,6 +107,8 @@ Some insight gotten from the visualization are:
 5. Most purchased product sub-category is office supplies and the least is copiers
 6. Most customer who did transactions came from California and the least transaction came from Wyoming.
 
+Further analysis then conducted to get deeper insight from the dataset.
+- For the State, West is state with the highest frequency of buying. From this point we can analyze whether cities with top buying frequency is located in the West region or not and is there any West city having small frequency of buying. By analyzing this, we know that West region is having a lot of potential buyer and we can develop strategy on how to improve buying in the West region cities. 
 
 
 
