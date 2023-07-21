@@ -44,20 +44,26 @@ In this part I will explain the result of the exploratory data analysis that has
  1. [Github](https://github.com/rindangchi/Python-Practice/blob/main/EDA%20Superstore/3_Exploratory_Data_Analysis_Sample_Global_Superstore.ipynb)
  2. [Google Colabs](https://colab.research.google.com/drive/1lt6DFEKMWPJwrvfTQQJqOGGXxsvob504?usp=sharing])
 
-### 5.1. Dataset Description
-The data set contains 9993 rows and 113 columns. And there is no null values for all variables or columns.
+### 5.1. About the Dataset
+
+Using shape and info function from pandas, found the charateristics of each variable as stated in the picture below, including the existance of null value, the column names, and the data types.
 
 <img width="208" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/0e4a6f5e-fbe0-4d8e-ba49-c67d7402a6f9">
 
 In the dataset description, for postal code columns, its data type is still int, so that i change the datatype into object to make the dataset valid. 
-Below are the details of each columns after I change the data type for postal code column. Since there is no null value in the dataset, I will proceed the dataset for further analysis.
+Below are the details of each column after I change the data type for postal code column.
 
 <img width="208" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/946bd90c-b89b-4c46-8abf-b1a966710c96">
+
+- The data set contains 9993 rows and 113 columns. And there is no null values for all variables or columns.
+- The data set contains 13 columns, which includes both categorical and continous variables.
+- The categorical variabels are indicated with Object data type and the continous variable is indicated with the int64 data type.
+- There is no null values in the data set.
 
 #### Understanding the given variables
 Variables stated in the datasest is divided into two categories, there are continous and categorical variables. 
 
-#### Continous variable:
+
 
 
 ### 5.2. Analysis of Categorical Variable 
