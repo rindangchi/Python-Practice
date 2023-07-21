@@ -68,11 +68,11 @@ Variables stated in the datasest is divided into two categories, there are conti
 ##### Categorical variables:
 **Ship Mode**: delivery mode chosen by customer       
 **Segment**: customer segment who purchase the product          
-**Country**: country where the store located          
-**City**: City where the store located             
-**State**: State where the store located         
-**Postal Code**: Postal code where the store located     
-**Region**: Region where the store located          
+**Country**: country where customers located          
+**City**: City where customers located             
+**State**: State where customers located         
+**Postal Code**: Postal code where customers located     
+**Region**: Region where customers located          
 **Category**: Product category purchased by customer        
 **Sub-Category**: Product sub-category purchased by customer  
 
@@ -108,7 +108,8 @@ Using barchart dataset is visualized to rank the most and the least frequency fo
 6. Most customer who did transactions came from California and the least transaction came from Wyoming.
 
 Further analysis then conducted to get deeper insight from the dataset.
-- For the State, West is state with the highest frequency of buying. From this point we can analyze whether cities with top buying frequency is located in the West region or not and is there any West city having small frequency of buying. By analyzing this, we know that West region is having a lot of potential buyer and we can develop strategy on how to improve buying in the West region cities. 
+- For the State, West is state with the highest frequency of buying. From this point we can analyze whether cities with top buying frequency is located in the West region or not and is there any West city having small frequency of buying. By analyzing this, we know that West region is having a lot of potential buyer and we can develop strategy on how to improve buying frequency in the West region cities.
+- For the highest state and city, further analysis can be done to find out what products and categories are purchased most. 
 
 
 
