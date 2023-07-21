@@ -17,10 +17,10 @@
 
 ## Background
 Global superstore is a unreal store that doing sales business for various customers both the company and personal customer. They also sells various stuffs range from office supplies, furniture, and technology. They have a lot of sales data and they want to use the sales data to understand their current sales better to improve and maximize their sales performance. As a data analyst in the global superstore company I am assigned to analyze and get insight about their current sales data by using exploratory data analysis.
-In EDA I will try to understand the data, such as the variables, its data types, null value, and  performing descriptive statistics. EDA is important because it helps us to decide what the next things we need to do before performing data analysis or creating a new model. Using sample superstore dataset I will do the EDA to know which region is having the highest profit, highest sales, which product or category is more proftitable and many more.
+In EDA I will try to understand the data, such as the variables, its data types, null value, and  performing descriptive statistics. EDA is important because it helps us to decide what the next things we need to do before performing data analysis or creating a new model. 
 
 ## Business Understanding
-In this section I will breakdown problems, goal, and objectives
+In this section I will breakdown the problems, goal, and objectives
 
 ### 1. Problem Statements
 There are several problem statements that can be listed, stated as below:
@@ -33,10 +33,11 @@ There are several problem statements that can be listed, stated as below:
 - How are the distribution of 
 
 ### 2. Goal
-Understanding and representing the current sales data in Global Superstore
+Understanding and representing the current sales data in Global Superstore and  utilizing statictical method as well as data visualization to better understand the given dataset. 
 
-### 3. Objective
-Do the exploratory data analysis to understand and get insight from the current dataset 
+### 3. Objectives
+- Do exploratory data analysis to understand the current dataset
+- Help business to uncover trends and any meaningful findings that can be used to improve business decision
 
 ### 3. Exploratory Data Analysis 
 In this part I will explain the result of the exploratory data analysis that has been done. For full code can be accessed here : 
