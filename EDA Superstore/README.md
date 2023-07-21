@@ -55,22 +55,40 @@ Below are the details of each column after I change the data type for postal cod
 
 <img width="208" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/946bd90c-b89b-4c46-8abf-b1a966710c96">
 
+
 - The data set contains 9993 rows and 113 columns. And there is no null values for all variables or columns.
 - The data set contains 13 columns, which includes both categorical and continous variables.
-- The categorical variabels are indicated with Object data type and the continous variable is indicated with the int64 data type.
+- The categorical variables are indicated with Object data type and the continous variable is indicated with the int64 data type.
 - There is no null values in the data set.
 
 #### Understanding the given variables
 Variables stated in the datasest is divided into two categories, there are continous and categorical variables. 
 
+##### Categorical variables:
+**Ship Mode**: delivery mode chosen by customer       
+**Segment**: customer segment who purchase the product          
+**Country**: country where the store located          
+**City**: City where the store located             
+**State**: State where the store located         
+**Postal Code**: Postal code where the store located     
+**Region**: Region where the store located          
+**Category**: Product category purchased by customer        
+**Sub-Category**: Product sub-category purchased by customer  
 
+#### Continous VariableS:
+**Sales**: Sales value of each transaction, measured in USD         
+**Quantity**: Quantity of product purchased per transaction        
+**Discount**: Discount given to customers for each transaction     
+**Profit**: Profit generated for each transaction, measured in USD       
 
 
 ### 5.2. Analysis of Categorical Variable 
-From the data set, I did analysis separately for categorical and continous variable. In this section I will explain my finding on categorical variables. 
+From the dataset, I did analysis separately for categorical and continous variable. In this section I will explain my finding on categorical variables. 
 From the categorical variables I can find details of each variable as decribed in the column below:
 
 <img width="600" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/16bb7120-04fe-4442-a71d-75e3ee3bf6d3">
+
+
 
 To make it more interesting, I visualize the dataset using barchart to rank the most and the least frequency for each variable or column. 
 
