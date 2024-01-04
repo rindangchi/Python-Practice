@@ -16,7 +16,7 @@
 
 
 ## Background
-Global superstore is a unreal store that doing sales business for various customers both the company and personal customer. They also sells various stuffs range from office supplies, furniture, and technology. They have a lot of sales data and they want to use the sales data to understand their current sales better to improve and maximize their sales performance. As a data analyst in the global superstore company I am assigned to analyze and get insight about their current sales data by using exploratory data analysis.
+Global superstore is a hypermart store that doing sales business for various customers both the company and personal customer. They also sells various stuffs range from office supplies, furniture, and technology. They have a lot of sales data and they want to use the sales data to understand their current sales better to improve and maximize their sales performance. As a data analyst in the global superstore company I am assigned to analyze and get insight about their current sales data by using exploratory data analysis.
 In EDA I will try to understand the data, such as the variables, its data types, null value, and  performing descriptive statistics. EDA is important because it helps us to decide what the next things we need to do before performing data analysis or creating a new model. 
 
 ## Business Understanding
@@ -30,7 +30,6 @@ There are several problem statements that can be listed, stated as below:
 - Which product has the most and least profit value ?
 - Which category has the most and least profit value ?
 - Is there any correlation between variables, such as product, product category with profit value and number of purchased product?
-- How are the distribution of 
 
 ### 2. Goal
 Understanding and representing the current sales data in Global Superstore and  utilizing statictical method as well as data visualization to better understand the given dataset. 
@@ -42,7 +41,7 @@ Understanding and representing the current sales data in Global Superstore and  
 ### 3. Exploratory Data Analysis 
 In this part I will explain the result of the exploratory data analysis that has been done. For full code can be accessed here : 
  1. [Github](https://github.com/rindangchi/Python-Practice/blob/main/EDA%20Superstore/3_Exploratory_Data_Analysis_Sample_Global_Superstore.ipynb)
- 2. [Google Colabs](https://colab.research.google.com/drive/1lt6DFEKMWPJwrvfTQQJqOGGXxsvob504?usp=sharing])
+ 2. [Google Colabs](https://colab.research.google.com/drive/1lt6DFEKMWPJwrvfTQQJqOGGXxsvob504?usp=sharing)
 
 ### 5.1. About the Dataset
 
@@ -63,7 +62,7 @@ Below are the details of each column after I change the data type for postal cod
 
 
 #### Understanding the given variables
-Variables stated in the datasest is divided into two categories, there are continous and categorical variables. 
+Variables stated in the datasest is divided into two categories, there are numerical and categorical variables. 
 
 ##### Categorical variables:
 **Ship Mode**: delivery mode chosen by customer       
@@ -113,7 +112,18 @@ Further analysis then conducted to get deeper insight from the dataset.
 
 - For the state and city with the lowest purchasing frequency, further analysis can be done to find out what products and categories are purchased most in that cities. The marketing team can push more promotion regarding the products to the buyer resided in those cities.  
 
+<br></br>
+#### Finding Correlation between categorical variable 
+For correlation between catgeorical variable I use Cramers V method. The charmer's v method should be use because of following reason:
+1. To know the relationship between two variables
+2. Variables are categorical
+3. Variables have two or more unique values
 
+<img width="337" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/a8c0cfc7-9fe0-4aab-909c-245de339f155">
+
+<br></br>
+
+According to the result, some variables that have same characteristics or exact pattern like city, state, region postal code, category and sub-category have strong correlation. It also can be stated that the dataset is good and valid. In the other hand other variables with different characteristics have very weak correlation.
 
 
 
