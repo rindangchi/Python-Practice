@@ -168,6 +168,11 @@ Data points that called as outliers are fall outside the min and max line, the m
 maximum: Q3 + 1.5*IQR <br>
 minimum: Q1 -1.5*IQR
 
+Interpretation of above boxlpot is described below: 
+<br></br>
+- There are a lot of outliers in sales data, showing by many dots located beyond the maximum line.
+- Line border between Q1, Q2, and Q3 are not clear, meaning that values of Q1, Q2, and Q3 are quite same. It also indicates that most data have small value. Also can be said that 75% of data have values under 500 USD — 1000 USD.
+- The minimum value and the fartest outlier value have a wide distance, means that variation of data is quite high.
 
 
 
