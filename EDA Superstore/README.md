@@ -111,8 +111,9 @@ Further analysis then conducted to get deeper insight from the dataset.
 
 
 - For the state and city with the lowest purchasing frequency, further analysis can be done to find out what products and categories are purchased most in that cities. The marketing team can push more promotion regarding the products to the buyer resided in those cities.  
-<br>
+
 #### Finding Correlation between categorical variable 
+
 For correlation between catgeorical variable I use Cramers V method. The charmer's v method should be use because of following reason:
 1. To know the relationship between two variables
 2. Variables are categorical
