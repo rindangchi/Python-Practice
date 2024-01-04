@@ -164,7 +164,7 @@ In this section some visualization using various charts and grpahs is created to
 <img width="504" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/de10a5ae-f67d-49b1-a2cb-f07218d9a337">
 
 From the bloxpot above I can see the outlier of each variables. Outliers refer to data points that deviate significantly from the majority of the observations, either by being exceptionally large or small. Quantity and discount do not have many ouliers, in the other hand Sales and profit have a lot of outliers.
-Data points that called as outliers are fall outside the min and max line, the min and max line have below formula:
+Data points that called as outliers are fall outside the min and max line, the min and max line have below formula: <br>
 maximum: Q3 + 1.5*IQR <br>
 minimum: Q1 -1.5*IQR
 
