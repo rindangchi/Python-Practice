@@ -102,8 +102,8 @@ Using barchart dataset is visualized to rank the most and the least frequency fo
 1. Standard class is the most chosen shipment mode and same day is the least used mode
 2. Looking at the customer segment, the most segment did the transaction is consumer segment and the segment did the least transaction is home office
 3. Most transaction came from West and the least came from South
-4. Most purchased product category is office supplies and the least is technology
-5. Most purchased product sub-category is office supplies and the least is copiers
+4. Most transaction is happened for product category is office supplies and the least is technology
+5. Most transaction happened product sub-category is office supplies and the least is copiers
 6. Most customer who did transactions came from California and the least transaction came from Wyoming.
 
 Further analysis then conducted to get deeper insight from the dataset.
