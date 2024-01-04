@@ -157,13 +157,15 @@ The statistics descriptive above can be explained below:
 - The highest profit recorded is USD 8399, it indicates that certain transaction is highly profitable, in the other hand the minimum value is USD -6599 it is also indicate that certain transaction has a very high loss.
 
 ### Visualization
-In this section some visualization using various charts and grpahs is created to easily understand and interpret the data. 
+In this section some visualization using various charts and grpahs is created to easily understand and interpret the data.
+<br></br>
 **Box Plot**
+<br></br>
 <img width="504" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/de10a5ae-f67d-49b1-a2cb-f07218d9a337">
 
 From the bloxpot above I can see the outlier of each variables. Outliers refer to data points that deviate significantly from the majority of the observations, either by being exceptionally large or small. Quantity and discount do not have many ouliers, in the other hand Sales and profit have a lot of outliers.
 Data points that called as outliers are fall outside the min and max line, the min and max line have below formula:
-maximum: Q3 + 1.5*IQR
+maximum: Q3 + 1.5*IQR <br>
 minimum: Q1 -1.5*IQR
 
 
