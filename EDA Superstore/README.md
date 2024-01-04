@@ -111,8 +111,7 @@ Further analysis then conducted to get deeper insight from the dataset.
 
 
 - For the state and city with the lowest purchasing frequency, further analysis can be done to find out what products and categories are purchased most in that cities. The marketing team can push more promotion regarding the products to the buyer resided in those cities.  
-
-<br></br>
+<br>
 #### Finding Correlation between categorical variable 
 For correlation between catgeorical variable I use Cramers V method. The charmer's v method should be use because of following reason:
 1. To know the relationship between two variables
@@ -120,9 +119,7 @@ For correlation between catgeorical variable I use Cramers V method. The charmer
 3. Variables have two or more unique values
 
 <img width="337" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/a8c0cfc7-9fe0-4aab-909c-245de339f155">
-
-<br></br>
-
+<br>
 According to the result, some variables that have same characteristics or exact pattern like city, state, region postal code, category and sub-category have strong correlation. It also can be stated that the dataset is good and valid. In the other hand other variables with different characteristics have very weak correlation.
 
 
