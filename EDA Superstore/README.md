@@ -126,7 +126,7 @@ According to the result, some variables that have same characteristics or exact 
 ### 5.2. Analysis of Numerical Variables
 In this section I will explain the finding for numerical variables. 
 
-### Descriptive Statitics
+### Descriptive Statistics
 Using describe function in python, here I can find the descriptive statistics for each numerical variable. 
 
 <img width="279" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/0886400b-b18d-4583-b5ff-3a32295173e7">
@@ -156,7 +156,15 @@ The statistics descriptive above can be explained below:
 - The 25 percentile is USD 1.7, 50 perecntile is USD 8.6, and 75 percentile is USD 29, it indicates that 75% of the transaction has profit less than USD 29, this value is still quite low.
 - The highest profit recorded is USD 8399, it indicates that certain transaction is highly profitable, in the other hand the minimum value is USD -6599 it is also indicate that certain transaction has a very high loss.
 
+### Visualization
+In this section some visualization using various charts and grpahs is created to easily understand and interpret the data. 
+**Box Plot**
+<img width="504" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/de10a5ae-f67d-49b1-a2cb-f07218d9a337">
 
+From the bloxpot above I can see the outlier of each variables. Outliers refer to data points that deviate significantly from the majority of the observations, either by being exceptionally large or small. Quantity and discount do not have many ouliers, in the other hand Sales and profit have a lot of outliers.
+Data points that called as outliers are fall outside the min and max line, the min and max line have below formula:
+maximum: Q3 + 1.5*IQR
+minimum: Q1 -1.5*IQR
 
 
 
