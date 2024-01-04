@@ -123,6 +123,23 @@ For correlation between catgeorical variable I use Cramers V method. The charmer
 <br>
 According to the result, some variables that have same characteristics or exact pattern like city, state, region postal code, category and sub-category have strong correlation. It also can be stated that the dataset is good and valid. In the other hand other variables with different characteristics have very weak correlation.
 
+### 5.2. Analysis of Numerical Variables
+In this section I will explain the finding for numerical variables. 
+
+### Descriptive Statitics
+Using describe function in python, here I can find the descriptive statistics for each numerical variable. 
+
+<img width="279" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/0886400b-b18d-4583-b5ff-3a32295173e7">
+
+The statistics descriptive above can be explained below:
+**Sales**
+1. The average sales value is USD 229.85
+2. The standard deviation of the sales value is USD 623.27, meaning that the variation of the data is quite high
+3. The minimum sales value is USD 0,44 it indicates that they are several transaction that are very low, business can analyze which product that has low transaction and define some promotion program. In the other hand the maximum sales amount recorded is USD 22638, it is quite high, using this finding business can analyze what customer doing this high transaction and attract them to stay loyal with the company, business also can analyze which product that has this high value of sales and improve the transaction to gain more profit.
+4. The 25% percentile of sales is USD 17.28, it means that 1/4 of sales has maximum value of USD 17,28.
+5. The 50% percentile is USD 54.48 meaning that half of the sales have no value more than USD 54.48, it is a low value.
+6. The 75% of sales is USD 209, this value indicates that 75% of sales transaction is no more than USD 209, this value also quite low. It means that most transactions have very low total amount.
+
 
 
 
