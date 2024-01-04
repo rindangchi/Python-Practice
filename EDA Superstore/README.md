@@ -132,6 +132,7 @@ Using describe function in python, here I can find the descriptive statistics fo
 <img width="279" alt="image" src="https://github.com/rindangchi/Python-Practice/assets/10241058/0886400b-b18d-4583-b5ff-3a32295173e7">
 
 The statistics descriptive above can be explained below:
+<br></br>
 **Sales**
 1. The average sales value is USD 229.85
 2. The standard deviation of the sales value is USD 623.27, meaning that the variation of the data is quite high
@@ -139,7 +140,21 @@ The statistics descriptive above can be explained below:
 4. The 25% percentile of sales is USD 17.28, it means that 1/4 of sales has maximum value of USD 17,28.
 5. The 50% percentile is USD 54.48 meaning that half of the sales have no value more than USD 54.48, it is a low value.
 6. The 75% of sales is USD 209, this value indicates that 75% of sales transaction is no more than USD 209, this value also quite low. It means that most transactions have very low total amount.
-
+<br></br>
+**Quantity**
+1. The average quantity is 3.7, indicating that customers tend to buy few items per transaction.
+2. The standard deviation is 2.2, it is not too different with the mean, indicating that the data has low variation
+3. The minimum qty bought by customer is 1 and the maximum is 14, indicating that some transaction is just single item and in the other hand it is a transaction with high quanity. Targeting and understanding the characteristics and preferences of customers who make larger purchases can help increase sales and customer satisfaction.
+4. The 25% percentile is 2, meaning that 1/4 transaction has item less than 2. The 50% is 3, meaning that half transaction do not have more than 5 items per transaction. While the 75% is 5, it means most transactions still have very low quantity.
+<br></br>
+**Discount**
+1. The average discount is 0.15 and its standard deviation is 0.2
+2. The 25% is 0 means that 1/4 transaction data do not have any discount applied. 50% and 75% precentile is 0.2 means that most transactions have discount less than 20%. It means that bsuiness do not give many discounts. Business my analyze whether discount will affect on sales and profit.
+<br></br>
+**Profit**
+1. The average profit per transaction is USD 28.65 with standard deviation value USD 234, since the difference between standard deviation and mean is relatively high, it indicates that data has high variation of profit value
+2. The 25 percentile is USD 1.7, 50 perecntile is USD 8.6, and 75 percentile is USD 29, it indicates that 75% of the transaction has profit less than USD 29, this value is still quite low.
+3. The highest profit recorded is USD 8399, it indicates that certain transaction is highly profitable, in the other hand the minimum value is USD -6599 it is also indicate that certain transaction has a very high loss.
 
 
 
